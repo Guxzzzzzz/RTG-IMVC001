@@ -4,6 +4,5 @@ __pycache__/
 logs/
 history/
 Result/
-*.mat
 *.pt
 *.pth
